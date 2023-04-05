@@ -1,0 +1,9 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(õšèŽøÿÿÿÿ
+¤
+java:S1130"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException' which is a subclass of 'java.io.IOException'.(¢ËÙ
+^
+java:S1128"CRemove this unused import 'com.fasterxml.jackson.core.ObjectCodec'.(ØÞ“ºþÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'com.fasterxml.jackson.core.TreeNode'.(®Ä¦™

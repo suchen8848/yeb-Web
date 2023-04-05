@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yeb-mail:war">
+    <output-path>$PROJECT_DIR$/yeb-mail/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>yeb-mail</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="yeb-mail-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="yeb-mail:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+
+E
+java:S37400"/Provide the parametrized type for this generic.(‚Ê«
+J
+java:S37403"/Provide the parametrized type for this generic.(À´Ğ¼şÿÿÿÿ
+J
+java:S3740:"/Provide the parametrized type for this generic.(¬„Ïüúÿÿÿÿ
+ 
+java:S4449\"‰Annotate the parameter with @javax.annotation.Nullable in method 'put' declaration, or make sure that null can not be passed as argument.(åøß·
+_
+java:S1128"IRemove this unused import 'org.springframework.messaging.MessageHandler'.(ÔÈÁó
+P
+java:S1128":Remove this unused import 'javax.mail.MessagingException'.(ÇîŞ

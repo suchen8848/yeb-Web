@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="yeb:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/yeb_war</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="yeb-Web" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="yeb/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+
+a
+java:S2259K"FA "NullPointerException" could be thrown; "accessor" is nullable here.(ğ¾Ñõùÿÿÿÿ
+^
+java:S2259N"CA "NullPointerException" could be thrown; "token" is nullable here.(”Ô´Œÿÿÿÿÿ
+_
+java:S1128	"IRemove this unused import 'org.springframework.messaging.MessageHandler'.(ÔÈÁó
+p
+java:S1128
+"URemove this unused import 'org.springframework.messaging.converter.MessageConverter'.(ÈÊÊêùÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
